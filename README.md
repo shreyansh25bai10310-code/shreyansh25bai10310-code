@@ -1424,3 +1424,14 @@ Create Impact
 <img src="https://raw.githubusercontent.com/shreyansh25bai10310-code/shreyansh25bai10310-code/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img width="100%" src="./github-metrics.svg"/>
+
+</div>
+
+---
